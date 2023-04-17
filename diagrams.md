@@ -41,3 +41,8 @@ ref: public.User.username - public.Wishlist.username
 ![RelationalModel](https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/338839046_168258556110125_2824207743627128412_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=T3Mp9P9g578AX9XrQd6&_nc_ht=scontent-cph2-1.xx&oh=03_AdRSTIG5M5GWMqyLwvxA2hbN9C5NbFNe7sZjHn9JnM8wWw&oe=644A9DC4)
 
 <sub>The relational model is not up to date</sub>
+
+<h2>Class diagram</h2>
+ ![wishlist](https://user-images.githubusercontent.com/113179072/232439922-25a51d8c-0420-434d-8446-4c2cc3f873a5.png)
+
+
